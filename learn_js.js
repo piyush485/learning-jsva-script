@@ -94,7 +94,7 @@ console.log(f1(true));
 
 // strict equal sign 
 
-if(2 === '2')   console.log('true\n');
+if(2 === '2')   console.log('false\n');
 if(2 == '2')   console.log('true\n');
 if(2 == 2)   console.log('true\n');
 
